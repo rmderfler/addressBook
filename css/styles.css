@@ -1,0 +1,22 @@
+#show-contact {
+  display: none;
+}
+
+.contact-submit {
+  display: none;
+}
+
+li :hover {
+
+  cursor: pointer;
+  color: #0088cc;
+}
+/*li.contact:hover {
+  text-decoration: underline;
+
+}*/
+
+/*.contact-link:hover {
+  text-decoration: underline;
+}*/
+
